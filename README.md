@@ -57,9 +57,4 @@ The project compares four different RNN architectures:
 
 The models are compared based on their Mean Squared Error (MSE) on both training and test datasets. Visualizations are provided to compare the predicted values against the observed values, as well as the prediction errors for each model.
 
-## Future Work
-
-- Incorporate additional features (e.g., trading volume, market sentiment)
-- Experiment with more advanced architectures (e.g., attention mechanisms)
-- Implement ensemble methods to combine predictions from multiple models
 
